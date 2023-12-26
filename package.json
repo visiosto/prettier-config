@@ -1,0 +1,19 @@
+{
+  "name": "@visiosto/prettier-config",
+  "version": "0.1.0",
+  "description": "The Visiosto Prettier configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visiosto/prettier-config.git"
+  },
+  "author": "Visiosto oy <visiosto@visiosto.fi> (https://www.visiosto.fi)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/visiosto/prettier-config/issues"
+  },
+  "homepage": "https://github.com/visiosto/prettier-config#readme"
+}
