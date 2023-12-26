@@ -16,7 +16,7 @@
   "main": "index.js",
   "scripts": {
     "format": "prettier --write .",
-    "format:check": "prettier --check .",
+    "format:test": "prettier --check .",
     "lint": "eslint ."
   },
   "devDependencies": {
