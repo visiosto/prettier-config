@@ -12,4 +12,4 @@ const config = {
   proseWrap: "always",
 };
 
-module.exports = config;
+export default config;
