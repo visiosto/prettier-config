@@ -7,6 +7,9 @@ These are the Prettier configurations for Visiosto projects.
 ## Installation
 
 First install [Prettier](https://prettier.io) and the configuration package.
+Please note that the `@visiosto/prettier-config` package is stored within the
+GitHub npm package registry. To get the package from the right registry, add
+`@visiosto:registry=https://npm.pkg.github.com` to your `.npmrc`.
 
     npm install --save-dev prettier @visiosto/prettier-config
 
