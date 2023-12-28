@@ -21,7 +21,7 @@ example, export the configuration as a string in your `.prettierrc.json`.
 For more information on shared Prettier configuration, please see
 [the Prettier documentation](https://prettier.io/docs/en/configuration#sharing-configurations).
 
-### Licence
+## Licence
 
 This project is licensed under the BSD 3-Clause License. For more information,
 please see the [LICENSE](LICENSE) file.
