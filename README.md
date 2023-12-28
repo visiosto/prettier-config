@@ -1,5 +1,7 @@
 # Visiosto Prettier Configuration
 
+[![Main workflow](https://github.com/visiosto/prettier-config/actions/workflows/main.yml/badge.svg)](https://github.com/visiosto/prettier-config/actions/workflows/main.yml)
+
 These are the Prettier configurations for Visiosto projects.
 
 ## Installation
