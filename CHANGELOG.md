@@ -8,8 +8,11 @@ and this project adheres to
 
 ## [Unreleased]
 
+## [0.1.0] - 2023-12-29
+
 ### Added
 
 - Base Prettier configuration.
 
+[unreleased]: https://github.com/visiosto/prettier-config/compare/v0.1.0...HEAD
 [0.1.0]: https://github.com/visiosto/prettier-config/releases/tag/v0.1.0
